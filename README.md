@@ -13,9 +13,9 @@ To analyze real stock market data using Excel VBA scripting.
   * VBA Scripts as separate files: `part1.vbs` contains the VBA script for Part 1, and `part2.vbs` contains the script for Part 2 Challenges. In the modules, the Part 1's macro is named `tickerloop1`, and the Part 2's `tickerloop2`.
   * A screenshot for each year of the results on the `Multi_Year_Stock_Data`.
   * Preview:
-[2014](Images/2014.png)
-[2015](Images/2015.png)
-[2016](Images/2016.png)
+![2014](Images/2014.png)
+![2015](Images/2015.png)
+![2016](Images/2016.png)
 
 
 ## Datasets
