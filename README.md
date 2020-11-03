@@ -1,16 +1,32 @@
-# VBA-challenge: Stock Market Analysis
+# VBA-challenge - Stock Market Analysis
 
 ## Objectives
 
 To analyze real stock market data using Excel VBA scripting.
+
 ![stock Market](Images/stockmarket.jpg)
 
-### Files
+## Navigation of the repo: Submission
 
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* All the completed files are in the 'VBAStocks' directory.
+* The following files are included in the repo:
+  * VBA Scripts as separate files: `part1.vbs` contains the VBA script for Part 1, and `part2.vbs` contains the script for Part 2 Challenges. In the modules, the Part 1's macro is named `tickerloop1`, and the Part 2's `tickerloop2`.
+  * A screenshot for each year of the results on the `Multi_Year_Stock_Data`.
+  * Preview:
+[2014](Images/2014.png)
+[2015](Images/2015.png)
+[2016](Images/2016.png)
 
-## Part 1
+
+## Datasets
+
+* [Testing Data](Resources/alphabetical_testing.xlsx) for the code developing purposes & [Real Stock Data](Resources/Multiple_year_stock_data.xlsx) for the analysis.
+
+- - -
+
+## Tasks
+
+### Part 1
 
 * Create a script that will loop through all the stocks for one year and output the following information.
   * The ticker symbol.
@@ -33,11 +49,5 @@ To analyze real stock market data using Excel VBA scripting.
 
 ![hard_solution](Images/hard_solution.png)
 
-2. Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+2. Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once. 
 
-
-## Navigation of the repo: Submission
-
-* The following files are included in the repo:
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-  * VBA Scripts as separate files.
